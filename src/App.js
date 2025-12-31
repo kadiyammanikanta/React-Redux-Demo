@@ -18,7 +18,7 @@ function App() {
      <Provider store={store}>
 <Form/>
 <Account/>
-
+<h1>hello</h1>
      </Provider>
     </div>
   );
